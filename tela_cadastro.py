@@ -38,7 +38,6 @@ def main(page: ft.Page):
             ),
             
         ],
-        alignment= ft.MainAxisAlignment.NONE,
         
 
     )
