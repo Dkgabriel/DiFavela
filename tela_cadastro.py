@@ -6,6 +6,8 @@ def main(page: ft.Page):
         'popis' : 'assets/fonts/Poppis-SemiBold.tff',
         'aseinia' : 'assets/fonts/aseina-typeface.ttf'
     }
+
+    
     image_fundo = ft.Container(
         ft.Image(src='assets/igms/tela_de_login_imgs/cervejafundo.png', repeat= ft.ImageRepeat.REPEAT,
         width= 10,         
